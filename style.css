@@ -1,0 +1,29 @@
+body{
+    background-image: url(./images/galaxy.gif)
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+h1{
+    padding-bottom: 50px;
+}
+
+main {
+    text-align: center;
+    margin:40px 0;
+    padding-top: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 550px;
+    height:550px;
+    border-radius: 50%;
+
+}
